@@ -9,4 +9,4 @@ The program consists of 9 online courses that will provide you with the latest j
 <img width="741" alt="Screenshot 2021-10-07 at 11 57 17" src="https://user-images.githubusercontent.com/87863132/136371337-0b830142-9bae-4325-8dbc-287f95240a0a.png">
 
 ## Capstone Project 
-The capstone project is lcoated in the Space X repository
+The capstone project is located in the Space X repository
